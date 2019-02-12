@@ -22,5 +22,5 @@ urlpatterns = [
     path('',include('blog.urls'))
     #Django will now redirect everything that comes
     #into 'http://127.0.0.1:8000/' to blog.URLs
-    
+
 ]
